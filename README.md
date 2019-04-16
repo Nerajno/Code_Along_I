@@ -8,4 +8,4 @@ Development Course at The Flatiron School.
 
 #Contact
 
-Fine me @nerajno on Twitter.
+Find me @nerajno on Twitter.
